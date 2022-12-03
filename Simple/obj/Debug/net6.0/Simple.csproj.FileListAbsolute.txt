@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Task_13\Simple\bin\Debug\net6.0\Simple.exe
+C:\Users\PC\Desktop\Task_13\Simple\bin\Debug\net6.0\Simple.deps.json
+C:\Users\PC\Desktop\Task_13\Simple\bin\Debug\net6.0\Simple.runtimeconfig.json
+C:\Users\PC\Desktop\Task_13\Simple\bin\Debug\net6.0\Simple.dll
+C:\Users\PC\Desktop\Task_13\Simple\bin\Debug\net6.0\Simple.pdb
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.dll
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\refint\Simple.dll
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.pdb
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\Simple.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task_13\Simple\obj\Debug\net6.0\ref\Simple.dll
