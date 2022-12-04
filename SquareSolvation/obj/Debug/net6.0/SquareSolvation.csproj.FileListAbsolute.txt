@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task_13\SquareSolvation\bin\Debug\net6.0\SquareSolvation.exe
+C:\Users\PC\Desktop\Task_13\SquareSolvation\bin\Debug\net6.0\SquareSolvation.deps.json
+C:\Users\PC\Desktop\Task_13\SquareSolvation\bin\Debug\net6.0\SquareSolvation.runtimeconfig.json
+C:\Users\PC\Desktop\Task_13\SquareSolvation\bin\Debug\net6.0\SquareSolvation.dll
+C:\Users\PC\Desktop\Task_13\SquareSolvation\bin\Debug\net6.0\SquareSolvation.pdb
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.dll
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\refint\SquareSolvation.dll
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.pdb
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\SquareSolvation.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task_13\SquareSolvation\obj\Debug\net6.0\ref\SquareSolvation.dll
