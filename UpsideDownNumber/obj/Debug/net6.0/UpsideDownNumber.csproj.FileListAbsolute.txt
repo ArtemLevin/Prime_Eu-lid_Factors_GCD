@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\bin\Debug\net6.0\UpsideDownNumber.exe
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\bin\Debug\net6.0\UpsideDownNumber.deps.json
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\bin\Debug\net6.0\UpsideDownNumber.runtimeconfig.json
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\bin\Debug\net6.0\UpsideDownNumber.dll
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\bin\Debug\net6.0\UpsideDownNumber.pdb
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.dll
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\refint\UpsideDownNumber.dll
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.pdb
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\UpsideDownNumber.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task_13\UpsideDownNumber\obj\Debug\net6.0\ref\UpsideDownNumber.dll
