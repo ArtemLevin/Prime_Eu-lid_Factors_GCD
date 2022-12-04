@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task_13\LCM\bin\Debug\net6.0\LCM.exe
+C:\Users\PC\Desktop\Task_13\LCM\bin\Debug\net6.0\LCM.deps.json
+C:\Users\PC\Desktop\Task_13\LCM\bin\Debug\net6.0\LCM.runtimeconfig.json
+C:\Users\PC\Desktop\Task_13\LCM\bin\Debug\net6.0\LCM.dll
+C:\Users\PC\Desktop\Task_13\LCM\bin\Debug\net6.0\LCM.pdb
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.dll
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\refint\LCM.dll
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.pdb
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\LCM.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task_13\LCM\obj\Debug\net6.0\ref\LCM.dll
