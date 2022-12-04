@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task_13\HelpFile\bin\Debug\net6.0\HelpFile.exe
+C:\Users\PC\Desktop\Task_13\HelpFile\bin\Debug\net6.0\HelpFile.deps.json
+C:\Users\PC\Desktop\Task_13\HelpFile\bin\Debug\net6.0\HelpFile.runtimeconfig.json
+C:\Users\PC\Desktop\Task_13\HelpFile\bin\Debug\net6.0\HelpFile.dll
+C:\Users\PC\Desktop\Task_13\HelpFile\bin\Debug\net6.0\HelpFile.pdb
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.dll
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\refint\HelpFile.dll
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.pdb
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\HelpFile.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task_13\HelpFile\obj\Debug\net6.0\ref\HelpFile.dll
