@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Task_13\headsAndTails\bin\Debug\net6.0\headsAndTails.exe
+C:\Users\PC\Desktop\Task_13\headsAndTails\bin\Debug\net6.0\headsAndTails.deps.json
+C:\Users\PC\Desktop\Task_13\headsAndTails\bin\Debug\net6.0\headsAndTails.runtimeconfig.json
+C:\Users\PC\Desktop\Task_13\headsAndTails\bin\Debug\net6.0\headsAndTails.dll
+C:\Users\PC\Desktop\Task_13\headsAndTails\bin\Debug\net6.0\headsAndTails.pdb
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.dll
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\refint\headsAndTails.dll
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.pdb
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\headsAndTails.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task_13\headsAndTails\obj\Debug\net6.0\ref\headsAndTails.dll
