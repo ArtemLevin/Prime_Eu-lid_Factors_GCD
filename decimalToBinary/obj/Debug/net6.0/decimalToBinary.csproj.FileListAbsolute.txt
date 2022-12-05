@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task_13\decimalToBinary\bin\Debug\net6.0\decimalToBinary.exe
+C:\Users\PC\Desktop\Task_13\decimalToBinary\bin\Debug\net6.0\decimalToBinary.deps.json
+C:\Users\PC\Desktop\Task_13\decimalToBinary\bin\Debug\net6.0\decimalToBinary.runtimeconfig.json
+C:\Users\PC\Desktop\Task_13\decimalToBinary\bin\Debug\net6.0\decimalToBinary.dll
+C:\Users\PC\Desktop\Task_13\decimalToBinary\bin\Debug\net6.0\decimalToBinary.pdb
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.dll
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\refint\decimalToBinary.dll
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.pdb
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\decimalToBinary.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task_13\decimalToBinary\obj\Debug\net6.0\ref\decimalToBinary.dll
