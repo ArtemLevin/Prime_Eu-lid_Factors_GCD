@@ -1,5 +1,6 @@
-﻿Console.WriteLine("Введите число: ");
+﻿Console.Write("Decimal number system: ");
 int n =  int.Parse(Console.ReadLine()!);
+Console.Write("-----> Binary number system: ");
 int ost; 
 string newn;
 while (n!=0)
